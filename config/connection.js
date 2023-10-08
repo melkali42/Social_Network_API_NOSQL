@@ -8,4 +8,4 @@ connect(connectionString, {
 
 });
 
-modeule.exports = connection;
+module.exports = connection;
